@@ -14,7 +14,7 @@ Official Implementation of Physical Adversarial Camouflage Generation in Optical
 
 This repository mainly provides the camouflage texture generator we used for better reproduction.
 
-We are well aware that the proposed method needs further improvement. We welcome your comments and improvements. Please feel free to send a Pull Request~
+We are well aware that the proposed method has some limitations and needs further improvement. We welcome any comments and improvements. Please feel free to send a Pull Request~
 
 ## Directory
 + [Abstract](#Abstract)
