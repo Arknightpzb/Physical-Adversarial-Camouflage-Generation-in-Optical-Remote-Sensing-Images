@@ -26,5 +26,9 @@ Physical adversarial examples in optical remote sensing have garnered significan
 ## Updates
 <ul>
 <li>**2025-03-19**: Repository was first built. Examples we used were also provided.</li>
-<li>...(We are about to provide the weights of the generator and related usage code after the paper is accepted.)</li>
+<li>**2025-04-04**: The ckpt and usage example (stylegan3test.py) were uploaded. Please refer to these codes for details.</li>
+<li>...(We are waiting for the 2nd review results.)</li>
 </ul>
+
+## Acknowledgment
+Thanks [StyleGAN3](https://github.com/NVlabs/stylegan3) for the support.
