@@ -10,6 +10,8 @@ Official Implementation of Physical Adversarial Camouflage Generation in Optical
 
 </div>
 
+![](https://github.com/Arknightpzb/Physical-Adversarial-Camouflage-Generation-in-Optical-Remote-Sensing-Images/blob/main/images/painting.jpg)
+
 ## Contributing
 
 This repository mainly provides the camouflage texture generator we used for better reproduction.
