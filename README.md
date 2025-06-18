@@ -28,9 +28,9 @@ Physical adversarial examples in optical remote sensing have garnered significan
 Generator-StyleGAN3: [Google Drive](https://drive.google.com/file/d/1Zf1G5GizWpE1AcWyLT6A9l9YLegL1TzF/view?usp=sharing).  [Baidu](https://pan.baidu.com/s/10RKW2iiHRAr9KQaKhGTjtg), password: mz48
 ## Updates
 <ul>
-<li>{\bf 2025-03-19}: Repository was first built. Examples we used were also provided.</li>
-<li>{\bf 2025-04-04}: The ckpts and usage example (stylegan3test.py) were uploaded. Please refer to these codes for details.</li>
-<li>{\bf 2025-06-18}: The manuscript has been ACCEPTED for publication as a REGULAR paper in the IEEE Transactions on Information Forensics & Security!!! Welcome to your reading. 
+<li> **2025-03-19**: Repository was first built. Examples we used were also provided.</li>
+<li> **2025-04-04**: The ckpts and usage example (stylegan3test.py) were uploaded. Please refer to these codes for details.</li>
+<li> **2025-06-18**: The manuscript has been ACCEPTED for publication as a REGULAR paper in the IEEE Transactions on Information Forensics & Security!!! Welcome to your reading. 
 </ul>
 
 ## Acknowledgment
